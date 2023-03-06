@@ -1,0 +1,13 @@
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.exe
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.deps.json
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.json
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.dev.json
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.dll
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.pdb
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csproj.AssemblyReference.cache
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfoInputs.cache
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfo.cs
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csproj.CoreCompileInputs.cache
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.dll
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.pdb
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\Statement\Statement\bin\Debug\netcoreapp3.1\Statement.exe
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\Statement\Statement\bin\Debug\netcoreapp3.1\Statement.deps.json
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\Statement\Statement\bin\Debug\netcoreapp3.1\Statement.runtimeconfig.json
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\Statement\Statement\bin\Debug\netcoreapp3.1\Statement.runtimeconfig.dev.json
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\Statement\Statement\bin\Debug\netcoreapp3.1\Statement.dll
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\Statement\Statement\bin\Debug\netcoreapp3.1\Statement.pdb
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\Statement\Statement\obj\Debug\netcoreapp3.1\Statement.AssemblyInfoInputs.cache
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\Statement\Statement\obj\Debug\netcoreapp3.1\Statement.AssemblyInfo.cs
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\Statement\Statement\obj\Debug\netcoreapp3.1\Statement.csproj.CoreCompileInputs.cache
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\Statement\Statement\obj\Debug\netcoreapp3.1\Statement.dll
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\Statement\Statement\obj\Debug\netcoreapp3.1\Statement.pdb
+E:\SyntaxError\C#\Udemy(C# Complete Master Course (Updated to C# 10))\Statement\Statement\obj\Debug\netcoreapp3.1\Statement.genruntimeconfig.cache
